@@ -18,6 +18,6 @@ Head over to our website to try out the beta.
 The long term plan is to build CogniSim into a comprehensive agentic testing framework.
 
 - Generate End to End tests based on production traffic
-- Create new tests based on distillation of 
+- Create new tests based simple high level tasks
 - Create tests which simulate multiple users
 - Heal code based on errors of end to end users
