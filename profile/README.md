@@ -1,12 +1,23 @@
-## Hi there 👋
+# CogniSim
 
-<!--
+Making your testing easier with AI agents
 
-**Here are some ideas to get you started:**
+# Getting Started
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)]()
+Head over to our website to try out the beta.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+
+# Features
+
+ - Execute END to end tests based on simple natural language instructions
+ - Validate UI with visual testing features
+ - AI Agents learn how to navigate app with teaching mode
+
+ # RoadMap 
+
+The long term plan is to build CogniSim into a comprehensive agentic testing framework.
+
+- Generate End to End tests based on production traffic
+- Create new tests based on distillation of 
+- Create tests which simulate multiple users
+- Heal code based on errors of end to end users
