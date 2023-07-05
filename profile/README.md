@@ -21,3 +21,4 @@ The long term plan is to build CogniSim into a comprehensive agentic testing fra
 - Create new tests based simple high level tasks
 - Create tests which simulate multiple users
 - Heal code based on errors of end to end users
+- Create Simulacra of multiple agents to execute tests that would otherwise not be possible
