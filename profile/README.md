@@ -6,6 +6,7 @@ Making your testing easier with AI agents
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)]()
 Head over to our website to try out the beta.
 
+Visit [cognisim.io](https://cognisim.io)
 
 # Features
 
